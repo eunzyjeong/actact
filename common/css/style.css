@@ -1131,22 +1131,22 @@ main {
             display: inline-block;
             width: 79%;
             height: auto;
-            padding-left: 16px;
+            padding-left: 4vw;
             color: #f4f4f4;
         }
     
         .mobile-Panel__designer {
             display: block;
-            font-size: 10px;
+            font-size: 3vw;
             font-weight: 500;
         }
     
         .mobile-Panel__subject {
             display: block;
-            font-size: 12px;
-            line-height: 18px;
+            font-size: 3.6vw;
+            line-height: 1.6;
             font-weight: 600;
-            margin-top: 4px;
+            margin-top: 1.2vw;
         }
     
         /* RWD 960 > exhibition photo */
