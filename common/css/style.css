@@ -1369,6 +1369,11 @@ main {
         line-height: 20px;
         padding-bottom: 0;
     }
+    
+    .mobile-actively p.mobile--opacity {
+        font-size: 10px;
+        line-height: 1.6;
+    }
 
     .mobile-actively p:first-child {
         padding-bottom: 16px;
