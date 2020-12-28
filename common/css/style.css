@@ -1194,6 +1194,7 @@ main {
         width: 47%;
         float: left;
         margin-right: 6%;
+        text-align: justify;
     }
 
     .mobile-intro p:last-child {
