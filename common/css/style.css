@@ -1138,14 +1138,14 @@ main {
         .mobile-Panel__designer {
             display: block;
             font-size: 3vw;
-            font-weight: 500;
+            font-weight: 600;
         }
     
         .mobile-Panel__subject {
             display: block;
             font-size: 3.6vw;
             line-height: 1.6;
-            font-weight: 600;
+            font-weight: 700;
             margin-top: 1.2vw;
         }
     
